@@ -1,0 +1,63 @@
+📊 Task 2 – Advertising Performance Dashboard (FUTURE_DS_02)
+🎯 Objective
+
+Build an interactive Tableau dashboard to analyze the advertising dataset and evaluate Ad Spend, Revenue, ROI, Profit, and Product Sold across multiple marketing channels.
+
+🛠 Tools Used
+
+Tableau Public – Visualization & Dashboard creation
+
+Microsoft Excel / CSV – Data preparation
+
+GitHub – Project documentation
+
+📁 Dataset
+
+The dataset contains key marketing metrics:
+
+Ad Spend
+
+Revenue
+
+ROI (%)
+
+Profit
+
+Product Sold
+
+Different marketing channels
+
+📈 Insights from the Dashboard
+
+📌 Social Media and Product Sold channels generated the highest conversions.
+
+📌 ROI was highest for Product Sold channel (136%).
+
+📌 Revenue trend is dominated by the Product Sold channel.
+
+📌 Profit analysis reveals where marketing investment is most effective.
+
+📌 The dashboard provides a clear comparison across channels for better decision-making.
+
+🖼 Dashboard Screenshots
+
+(Include your 3–5 screenshots here using Markdown)
+
+Example:
+
+![Dashboard Screenshot 1](Screenshot 2025-11-16 190132.png)
+![Dashboard Screenshot 2](Screenshot 2025-11-16 190159.png)
+![Dashboard Screenshot 3](Screenshot 2025-11-16 190639.png)
+
+📂 Files Included
+
+Advertising_Dashboard.twbx – Tableau packaged workbook
+
+Advertising_Data.csv – Dataset
+
+Dashboard screenshots (.png)
+
+👩‍💻 Author
+
+Kaveri H S
+
